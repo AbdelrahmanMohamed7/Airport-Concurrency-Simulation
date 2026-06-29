@@ -18,4 +18,5 @@ This project implements advanced concurrent programming patterns to manage indep
 
 1. Clone this repository to your machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/airport-concurrency-simulation.git](https://github.com/YOUR_USERNAME/airport-concurrency-simulation.git)
+   git clone (https://github.com/AbdelrahmanMohamed7/Airport-Concurrency-Simulation.git)
+   
